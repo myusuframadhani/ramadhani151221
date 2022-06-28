@@ -10,7 +10,7 @@ You can contact me at:<br>
 
 Operating System:<br>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-Lenovo_Ideapad_Slim_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/AMD-Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 Have learned:<br>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
