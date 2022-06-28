@@ -1,7 +1,6 @@
 <h2>Hello, You can call me Yusuf/Chom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
 
-- I'm 20 y.o.
-- I'm currently studying at Jember University
+- I'm currently studying Computer Science at Jember University
 
 You can contact me at:<br>
 <a href="https://instagram/muhammad_y_ramadhani"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
