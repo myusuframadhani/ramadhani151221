@@ -8,7 +8,7 @@ You can contact me at:<br>
 <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 
-Operating System:<br>
+Workspaces:<br>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-Lenovo_Ideapad_Slim_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/AMD-Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
